@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>BBC Weather - Forecast for  PoznaĹ, PL</title>
+    <link>https://www.bbc.co.uk/weather/3088171</link>
+    <description>3-day forecast for PoznaĹ from BBC Weather, including weather, temperature and wind information</description>
+    <language>en</language>
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://www.bbc.co.uk/terms/additional_rss.shtml for more details</copyright>
+    <pubDate>Tue, 15 Jan 2019 10:00:12 GMT</pubDate>
+    <dc:date>2019-01-15T10:00:12Z</dc:date>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright: (C) British Broadcasting Corporation, see http://www.bbc.co.uk/terms/additional_rss.shtml for more details</dc:rights>
+    <atom:link href="https://weather-broker-cdn.api.bbci.co.uk/%s/forecast/rss/3day/%s" type="application/rss+xml" rel="self" />
+    <image>
+      <title>BBC Weather - Forecast for  PoznaĹ, PL</title>
+      <url>http://static.bbci.co.uk/weather/0.3.203/images/icons/individual_57_icons/en_on_light_bg/27.gif</url>
+      <link>https://www.bbc.co.uk/weather/3088171</link>
+    </image>
+    <item>
+      <title>Today: Heavy Snow, Minimum Temperature: 3Â°C (38Â°F) Maximum Temperature: 3Â°C (38Â°F)</title>
+      <link>https://www.bbc.co.uk/weather/3088171?day=0</link>
+      <description>Maximum Temperature: 3Â°C (38Â°F), Minimum Temperature: 3Â°C (38Â°F), Wind Direction: Westerly, Wind Speed: 19mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 91%, UV Risk: 0, Pollution: -- , Sunrise: 07:56 CET, Sunset: 16:08 CET</description>
+      <pubDate>Tue, 15 Jan 2019 10:00:12 GMT</pubDate>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/3088171-0-2019-01-15T09:42:00.000+0000</guid>
+      <dc:date>2019-01-15T10:00:12Z</dc:date>
+      <georss:point>52.4069 16.9299</georss:point>
+    </item>
+    <item>
+      <title>Wednesday: Thick Cloud, Minimum Temperature: 3Â°C (37Â°F) Maximum Temperature: 7Â°C (44Â°F)</title>
+      <link>https://www.bbc.co.uk/weather/3088171?day=1</link>
+      <description>Maximum Temperature: 7Â°C (44Â°F), Minimum Temperature: 3Â°C (37Â°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1006mb, Humidity: 90%, UV Risk: 0, Pollution: -- , Sunrise: 07:55 CET, Sunset: 16:10 CET</description>
+      <pubDate>Tue, 15 Jan 2019 10:00:12 GMT</pubDate>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/3088171-1-2019-01-15T09:42:00.000+0000</guid>
+      <dc:date>2019-01-15T10:00:12Z</dc:date>
+      <georss:point>52.4069 16.9299</georss:point>
+    </item>
+    <item>
+      <title>Thursday: Light Cloud, Minimum Temperature: 2Â°C (36Â°F) Maximum Temperature: 7Â°C (45Â°F)</title>
+      <link>https://www.bbc.co.uk/weather/3088171?day=2</link>
+      <description>Maximum Temperature: 7Â°C (45Â°F), Minimum Temperature: 2Â°C (36Â°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1001mb, Humidity: 74%, UV Risk: 0, Pollution: -- , Sunrise: 07:54 CET, Sunset: 16:11 CET</description>
+      <pubDate>Tue, 15 Jan 2019 10:00:12 GMT</pubDate>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/3088171-2-2019-01-15T09:42:00.000+0000</guid>
+      <dc:date>2019-01-15T10:00:12Z</dc:date>
+      <georss:point>52.4069 16.9299</georss:point>
+    </item>
+  </channel>
+</rss>
